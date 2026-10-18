@@ -1,5 +1,5 @@
-const FILES = ["./","./assets/index-ByV-z2bt.js","./assets/index-BKi6Mopo.css","./index.html","./icon-192.png","./icon-512.png","./icon-maskable-512.png","./manifest.webmanifest"];
-const VERSION = 'df1f0b313c4b';
+const FILES = ["./","./assets/index-BLxU38W5.js","./assets/index-BKi6Mopo.css","./index.html","./icon-192.png","./icon-512.png","./icon-maskable-512.png","./manifest.webmanifest"];
+const VERSION = 'c57232699475';
 // Offline copy of the phone reader's own files (Plan/phone-reader pr8). GitHub
 // API calls are never touched — note text and attachments live in IndexedDB.
 // FILES and VERSION are prepended at build time by vite.phone.config.ts; a new
